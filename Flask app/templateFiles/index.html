@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF Summarizer and Word Cloud Generator</title>
+</head>
+<body>
+    <h1>PDF Summarizer and Word Cloud Generator</h1>
+
+    {% if summaries %}
+        <h2>Summaries</h2>
+        {% for summary in summaries %}
+            <p>{{ summary }}</p>
+        {% endfor %}
+    {% endif %}
+
+    {% if wordcloud_image_path %}
+        <h2>Word Cloud</h2>
+        <img src="{{ wordcloud_image_path }}" alt="Word Cloud">
+    {% endif %}
+
+    <h2>Upload PDF</h2>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".pdf" required>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,1061 @@
+Named Entities in preprocessed_array[0]:
+4DRDO - DATE
+NATIONAL TECHNOLOGY DAY Defence Science Forum - ORG
+DSF - ORG
+DRDO - ORG
+National Technology Day 2023 - ORG
+17 May 2023 - DATE
+HQrs - PRODUCT
+DRDO - PERSON
+Dr V Samir Kamat - PERSON
+Scientific Advisor - ORG
+Raksha Mantri - PERSON
+Dr Satheesh Reddy - ORG
+General (Life Sciences - ORG
+Convener DSF - ORG
+Dr - GPE
+UK - GPE
+The day - DATE
+Pokhran Nuclear Tests - LOC
+11 May 1998 - DATE
+India - GPE
+three - CARDINAL
+the Indian Army’s - ORG
+Pokhran Test Range - PERSON
+Rajasthan - GPE
+11 May - DATE
+National Technology Day - ORG
+NTD - ORG
+India - GPE
+the Pokhran Nuclear Tests - FAC
+this year - DATE
+Dr - GPE
+Rajesh Gokhale - PERSON
+the Department of Bio-Technology - ORG
+healthcare - ORG
+Celebrated National Technology Day 2023 - ORG
+Showcasing Cutting-Edge Innovations and Recognizing Exceptional Contributions In - ORG
+DSF - ORG
+three - CARDINAL
+Ms Mohana Kumari, Electronics - PERSON
+Radar Development Establishment - ORG
+Bengaluru - GPE
+Dr G Appa Rao - PERSON
+Defence Metallurgical Research Laboratory - ORG
+Hyderabad - GPE
+Shri Durga Prasad - PRODUCT
+Aeronautical Development Establishment - ORG
+ADE - ORG
+NTD - ORG
+this year - DATE
+Innovate - ORG
+DRDO - ORG
+DIA-CoEs - ORG
+PhD Students - ORG
+Interns - ORG
+Kamat - GPE
+DRDO Technology Spectrum - ORG
+DRDO - ORG
+Debashis Mukherji - PERSON
+April 2023 - DATE
+Technology Focus - ORG
+Material Technologies' - ORG
+Singh - GPE
+DRDO - ORG
+
+Named Entities in preprocessed_array[1]:
+5DRDO - CARDINAL
+NATIONAL TECHNOLOGY - ORG
+N Ranjana - FAC
+DSF & Director - ORG
+DRDO - ORG
+NTD - ORG
+HQrs - PRODUCT
+DRDO - ORG
+HQrs - PRODUCT
+NTD 2023 - FAC
+ACEM - ORG
+Nasik Advanced Centre for Energetic Materials - ORG
+ACEM - ORG
+Nasik - ORG
+NTD - ORG
+11 May 2023 - DATE
+Padmanav Acharya - PERSON
+NITIE - ORG
+Mumbai - GPE
+Shri RS Patil - PERSON
+JD - PERSON
+HRD - ORG
+the day - DATE
+Jagadeeswar Rao - PERSON
+ACEM - ORG
+Technology Day - DATE
+Shri Ashutosh Sharma - PERSON
+Acharya - PERSON
+ACEM - ORG
+ARDE - ORG
+Pune National Technology Day 2023 - ORG
+the Armament Research & Development Establishment - ORG
+Pune - ORG
+11 May 2023 - DATE
+Shri A Raju - ORG
+OS & Director - ORG
+DRDO - ORG
+India - GPE
+Pokhran-II - EVENT
+NTD - ORG
+Shri Ajit Babar - PERSON
+Systems for Artillery Guns’ - WORK_OF_ART
+Dr SR Naik - ORG
+GD - ORG
+ASL - ORG
+Hyderabad Advanced Systems Laboratory - ORG
+ASL - ORG
+Hyderabad - ORG
+NTD 2023 - FAC
+22 May 2023 - DATE
+Dr M Rama - ORG
+Manohara Babu - PERSON
+DS & Director - ORG
+ASL - ORG
+this year - DATE
+NTD - ORG
+Innovate - ORG
+Dr K Tejasvi - PERSON
+NTD - ORG
+OS & Associate - ORG
+Titanium Medal - PERSON
+Dr K Tejasvi - ORG
+Bengaluru Centre - FAC
+Air Borne Systems - ORG
+Bengaluru - ORG
+11 May 2023 - DATE
+Shri Mandeep Singh - LAW
+Surveillance Applications’ - WORK_OF_ART
+Rajalakshmi Menon - PERSON
+DS & Director - ORG
+
+Named Entities in preprocessed_array[2]:
+6DEBEL - DATE
+Bengaluru Defence Bioengineering - ORG
+Electromedical Laboratory - ORG
+Bengaluru - GPE
+the 25th year - DATE
+NTD - ORG
+11 May 2023 - DATE
+Dr TM Kotresh - ORG
+OS & Director DEBEL - ORG
+Kiran Kumar - PERSON
+Space Commission - ORG
+Govt of India - ORG
+year - DATE
+NTD Medal - ORG
+NTD-2023 - ORG
+DEBEL - ORG
+NTD - ORG
+DEBEL - ORG
+TCD - GPE
+DEBEL - ORG
+Delhi Defence Institute of Physiology - ORG
+Allied Sciences - ORG
+Delhi - GPE
+17 May 2023 - DATE
+NTD - ORG
+Rajkumar Tulsawani - PERSON
+Laser - ORG
+Unique - ORG
+532 - CARDINAL
+1064 - DATE
+DESIDOC - ORG
+Delhi Defence Scientific Information & Documentation Centre - ORG
+DESIDOC - ORG
+Delhi - GPE
+NTD 2023 - FAC
+18 May 2023 - DATE
+Yusuf Ansari - PERSON
+NTD - ORG
+Nipun Bansal - PERSON
+Astt - PERSON
+DTU - ORG
+532 nm and 1064 - DATE
+Rajeev Varshney - PERSON
+DIPAS - ORG
+DLRL - ORG
+Hyderabad Science & Technology - ORG
+Defence Electronics Research Laboratory - ORG
+DLRL - ORG
+Hyderabad - ORG
+Dr Anupam Sharma - PERSON
+OS & Associate - ORG
+DSP - ORG
+Hyderabad - GPE
+Shri Meva Ram Gurjar - ORG
+DYSL-AI - ORG
+Bengaluru - GPE
+12 May 2023 - DATE
+DLRL - ORG
+NTD - ORG
+Smt Lakshmi - ORG
+Chairperson - PERSON
+S&T - ORG
+Dr Sharma - PERSON
+EW - ORG
+
+Named Entities in preprocessed_array[3]:
+Gurjar - GPE
+AI/ML - ORG
+EW Systems - ORG
+AI - ORG
+AI - ORG
+DYSL-AI - ORG
+S&T Forum - ORG
+GOI - ORG
+2047 - DATE
+Smt Priyanka Katiyar - PERSON
+NTD - ORG
+Guest - PERSON
+NTD - ORG
+Smt Priyanka Katiyar - GPE
+DMSRDE - ORG
+More than 250 - CARDINAL
+07 - CARDINAL
+Kanpur - GPE
+Gwalior Defence Research & Development Establishment - ORG
+Gwalior - ORG
+NTD - ORG
+11 May 2023 - DATE
+NTD - ORG
+Delivery Technologies - ORG
+NTD - ORG
+DRL - ORG
+Tezpur Defence Research - ORG
+DRL - ORG
+Tezpur - GPE
+NTD 2023 - ORG
+12 May 2023 - DATE
+Maj Gen - PERSON
+COS HQ 4 Corps - ORG
+Dev Vrat Kamboj - PERSON
+DRL - ORG
+the day - DATE
+Pearl Millet - PERSON
+Dr Ankit - ORG
+NTD- 2023 - DATE
+10 May 2023 - DATE
+Sonitpur - PERSON
+DRDO - ORG
+DRL - ORG
+Guest - PERSON
+august - DATE
+Prizes - LOC
+Kanpur Defence Materials and Stores Research & Development Establishment - ORG
+Kanpur - PERSON
+NTD - ORG
+12 May 2023 - DATE
+Shri Hari - PERSON
+Babu Srivastava - PERSON
+DS & DG - ORG
+TM - ORG
+Shri MH Rahaman - ORG
+DIA-CoE - ORG
+IIT Delhi - GPE
+Shri Kailash - PERSON
+Kumar Pathak - PERSON
+DFTM - ORG
+SM Abbas - PERSON
+Associate Director - PERSON
+DMSRDE - ORG
+Dr Mayank Dwivedi - ORG
+DMSRDE - ORG
+Guest - PERSON
+Guest - PERSON
+INMAS - ORG
+Delhi - GPE
+Maria M - PERSON
+NTD - ORG
+17 May - DATE
+
+Named Entities in preprocessed_array[4]:
+82023 - DATE
+‘Seeing the Unseen: Multimodality Imaging of - WORK_OF_ART
+Spinal - EVENT
+INMAS - ORG
+Delhi - GPE
+AK Mishra - PERSON
+INMAS - ORG
+annual - DATE
+INMAS ‘Nucleus’ - ORG
+Dr Mishra - PERSON
+NTD Titanium - ORG
+Dr - GPE
+Gusain - PERSON
+Defence and Manufacturing: A Review - WORK_OF_ART
+Anita Mohindra - PERSON
+ITM - PERSON
+Dr HS Gusain - ORG
+S&T - ORG
+DRDO - ORG
+India - GPE
+India - GPE
+S&T - ORG
+Electro - GPE
+Video Sequences - ORG
+Discriminate Birds - ORG
+Aircrafts - PERSON
+Dr Pradipta Roy - PERSON
+Medal - PERSON
+Shri PN Panda - PRODUCT
+ITM - ORG
+Mussoorie National Technology Day 2023 - ORG
+the Institute of Technology Management - ORG
+ITM - ORG
+Mussoorie - PERSON
+11 May 2023 - DATE
+Shri Sunil Bhandari - PERSON
+NTD - ORG
+ITR - ORG
+Chandipur ITR - PERSON
+National Technology Day 2023 - ORG
+11 May 2023 - DATE
+Shri HK Ratha - PERSON
+OS & Director - ORG
+ITR - ORG
+Mrs B Sucharita - PERSON
+Igniting Young - ORG
+Innovate - ORG
+Deep Learning - WORK_OF_ART
+VRDE - ORG
+Ahmednagar Vehicles Research and Development Establishment - ORG
+VRDE - ORG
+Ahmednagar - ORG
+NTD - ORG
+12 May 2023 - DATE
+Vijay V Patel - PERSON
+OS & Sc ‘H’ - ORG
+ADA - ORG
+Bengaluru - ORG
+Chief Guest - PERSON
+Shri G Ramamohana Rao - PERSON
+VRDE - ORG
+the day - DATE
+Shri VVJagirdhar - PERSON
+Sc ‘F - ORG
+NTD - ORG
+Patel - PERSON
+
+Named Entities in preprocessed_array[5]:
+9 JUNE 2023 - DATE
+NEWSLETTERMOU A Memorandum of Understanding - FAC
+the Defence Institute of Physiology - ORG
+Allied Sciences - ORG
+Delhi - GPE
+Power Grid Corporation - ORG
+India - GPE
+500 - CARDINAL
+GW - NORP
+Ladakh - GPE
+Power Grid Corporation - ORG
+Leh - GPE
+Ladakh - PERSON
+500 - CARDINAL
+Pang - GPE
+Kaithal (Haryana - ORG
+Ladakh - GPE
+up to - CARDINAL
+4700 - CARDINAL
+sub-zero - CARDINAL
+decades - DATE
+the Indian Army - ORG
+ITBP - ORG
+MoU - LAW
+Power Grid Corporation - ORG
+Pang - GPE
+R&D & - ORG
+DRDO - PERSON
+Power Grid - ORG
+Samir V Kamat - PERSON
+DD - PERSON
+Power Grid - ORG
+DIPAS - PERSON
+DIITM - PERSON
+DRDO - ORG
+Power Grid Corporation - ORG
+
+Named Entities in preprocessed_array[6]:
+10 - CARDINAL
+JUNE 2023 - DATE
+CRPF 6TH TECHNOLOGY COUNCIL MEETING An - ORG
+06 - CARDINAL
+Nos Paramilitary Variant of Wheeled Armoured Platform - ORG
+Vehicle Research and Development Establishment - ORG
+VRDE - ORG
+Ahmednagar - ORG
+Central Reserve Police Force - ORG
+8x8 - CARDINAL
+600 - CARDINAL
+7.62 mm - QUANTITY
+RCWS - ORG
+VRDE - ORG
+CRPF - ORG
+21 March 2023 - DATE
+DRDO - PERSON
+Samir V Kamat - PERSON
+Dr SV Gade - ORG
+OS & DG - ORG
+ACE - ORG
+VRDE - ORG
+IG (Provision - ORG
+Rajesh Kumar - PERSON
+IPS - ORG
+DRDO - PERSON
+the Paramilitary Variant of WhAP - LOC
+DRDO - ORG
+CRPF - ORG
+Rajesh Kumar - PERSON
+IPS - ORG
+IG (Provision - ORG
+6th - ORDINAL
+Technology Council - ORG
+the Ministry of Home Affairs - ORG
+DRDO - PERSON
+12 April 2023 - DATE
+New Delhi - GPE
+Dr Chandrika Kaushik - PERSON
+OS & DG - ORG
+the Technology Council - ORG
+MHA - ORG
+Intelligence Bureau (IB - ORG
+Assam Rifles - PERSON
+BSF - ORG
+Central Industrial Security Force - ORG
+CISF - ORG
+Central Reserve Police Force - ORG
+Dr SV Gade - ORG
+OS & DG(ACE - ORG
+Indo-Tibetan Border Police - ORG
+National Security Guard - ORG
+NSG - ORG
+Sashastra Seema Bal - PERSON
+SSB - ORG
+DRDO HQrs - PERSON
+
+Named Entities in preprocessed_array[7]:
+11 - CARDINAL
+JUNE 2023 - DATE
+the 3rd Apex Council Meeting - ORG
+DRDO - ORG
+CAPFs - ORG
+DRDO - ORG
+GeM - PRODUCT
+Chairperson - PERSON
+DLIC - PERSON
+1999 - DATE
+2022 - DATE
+49 - CARDINAL
+Display Hall - FAC
+DRDO Bhavan - PERSON
+Academia-Industry Meet on Defence Communication - ORG
+AIM-DefCom 2023 - ORG
+Defence Electronics Application Laboratory - ORG
+Dehradun - GPE
+IETE - ORG
+Dehradun Centre - FAC
+11-12 April 2023 - DATE
+Dr BK Das - ORG
+ECS - ORG
+Durgesh Pant - PERSON
+UCOST - ORG
+Academia and Industries - ORG
+AIM-DefCom2023 - ORG
+20 - CARDINAL
+90 - CARDINAL
+ACADEMIA - ORG
+
+Named Entities in preprocessed_array[8]:
+12 - CARDINAL
+NEWSLETTEREVENTS Office of DG - ORG
+ECS - ORG
+Bengaluru - ORG
+International Women’s Day-2023 - ORG
+17 April 2023 - DATE
+Dr BK Das - ORG
+ECS - ORG
+Ms Sanhita Kar - PERSON
+Finance - ORG
+OFB - ORG
+ECS - ORG
+ECS - ORG
+Ms Kar - PERSON
+Ms Kavitha K - PERSON
+Microwave Tube Research & Development Centre - ORG
+Bengaluru - ORG
+DRDO - PERSON
+the International Women’s Day INTERNATIONAL WOMEN - EVENT
+DAY-2023 CELEBRATIONS 21ST - ORG
+ANNUAL - DATE
+DFRL - ORG
+Mysore - PERSON
+Digital Era Technology - ORG
+the Advanced Systems Laboratory - ORG
+ASL - ORG
+Hyderabad - ORG
+21st - ORDINAL
+16 April 2023 - DATE
+Samir V Kamat - PERSON
+DRDO - PERSON
+Dr - GPE
+Narayana Murthy - PERSON
+MSS - ORG
+Organising Committee - ORG
+august - DATE
+Shri Neil Dubey - PERSON
+Director, Management Services - ORG
+the Annual Report of ASL - ORG
+Manohara Babu - PERSON
+DS & Director - ORG
+ASL - ORG
+IWD-2023 - ORG
+DFRL, Mysore - ORG
+coming years - DATE
+Dr Murthy - PERSON
+ASL - ORG
+ASL - ORG
+Kamat - GPE
+ASL - ORG
+ASL - ORG
+20 - CARDINAL
+25 - DATE
+30 - DATE
+35 years - DATE
+
+Named Entities in preprocessed_array[9]:
+13 - CARDINAL
+JUNE 2023 - DATE
+NEWSLETTEREVENTS Defence Metallurgical Research Laboratory - ORG
+Hyderabad - ORG
+132nd - GPE
+Bharat - NORP
+BR Ambedkar & 115th - ORG
+Dr - GPE
+Babu Jagjivan Ram - PERSON
+20 April 2023 - DATE
+Tamhankar Auditorium - FAC
+Dr R Balamuralikrishnan - FAC
+OS & Director - ORG
+E Sudha Rani - PERSON
+GRC R&D - ORG
+BR Ambedkar Open University - PERSON
+Dr N - ORG
+Siddoji Rao - PERSON
+Convener - ORG
+IAS/IPS Officers Forum - ORG
+SC/ST Welfare Association - ORG
+Association - ORG
+Dr Venkat - PERSON
+Sc ‘F’ & Liaison Officer - FAC
+Dr - GPE
+AMBEDKAR & DR - ORG
+BABU JAGJEEVAN - PERSON
+RAM - ORG
+DEBELAmbedkar - GPE
+the Indian Society - GPE
+Balamuralikrishnan - PERSON
+Ambedkar - PERSON
+Dr Rao - PERSON
+Sudha Rani - PERSON
+Ambedkar - PERSON
+Technical Information Centre - ORG
+Defence Bioengineering and Electromedical Laboratory - ORG
+Bengaluru - ORG
+a Book Exhibition - WORK_OF_ART
+25-28 April 2023 - DATE
+Dr TM Kotresh - ORG
+OS & Director - ORG
+DEBEL - ORG
+2200 - CARDINAL
+MEMS - ORG
+NBC - ORG
+226 - CARDINAL
+
+Named Entities in preprocessed_array[10]:
+14 - CARDINAL
+JUNE 2023 - DATE
+two-day - DATE
+Human Factors Engineering for Military Platforms - ORG
+the Defence Institute of Physiology & Allied Sciences - ORG
+Delhi - GPE
+15-16 March 2023 - DATE
+Bhawan - GPE
+New Delhi - GPE
+Rajeev Varshney - PERSON
+DIPAS - ORG
+Anil Chauhan - PERSON
+CDS - ORG
+Samir V Kamat - PERSON
+DRDO - PERSON
+Dr G Satheesh - PERSON
+Reddy - ORG
+SA - ORG
+RM - GPE
+Kamat - GPE
+DG Armoured Corps - ORG
+Shri Anish Dayal - ORG
+Dr - GPE
+UK - GPE
+Singh - GPE
+DG - GPE
+ADG Infantry - ORG
+ADG Army Design Bureau - ORG
+ADG Warship Design Bureau - ORG
+Tata Advanced Systems Limited - ORG
+Larsen & Toubro - ORG
+L&T - ORG
+Hindustan Aeronautics Limited - ORG
+Hindustan Shipyard Limited - ORG
+DRDO - ORG
+Tawang - GPE
+20 April 2023 - DATE
+year - DATE
+Distribution - ORG
+Chinese - NORP
+10700 - DATE
+11 - CARDINAL
+Jack Engineers - PERSON
+Chuje - PERSON
+
+Named Entities in preprocessed_array[11]:
+15 - CARDINAL
+JUNE 2023 - DATE
+Dr Ankit - ORG
+Scientist - ORG
+Defence Research Laboratory - ORG
+DRL - ORG
+Tezpur - GPE
+Chinese - NORP
+tsai - PERSON
+10,800 feet - QUANTITY
+12,200 feet - QUANTITY
+Tawang - GPE
+Shri Gaurav Singh Dhakad - PERSON
+Shri Parashuram Lamani - ORG
+Shri H. Worchan - PERSON
+25 - CARDINAL
+14 - CARDINAL
+10,800 feet - QUANTITY
+11 - CARDINAL
+12,200 ft. - QUANTITY
+396 - CARDINAL
+NPK - ORG
+2 kg - QUANTITY
+10 kg - QUANTITY
+ECS - ORG
+ECS - ORG
+Instruments Research and Development Establishment - ORG
+Dehradun - GPE
+28-29 - DATE
+April 2023 - DATE
+Dehradun - GPE
+ECS - ORG
+ECS - ORG
+Centre Heads - ORG
+Director Planning & Coordination - ORG
+DRDO HQrs - PERSON
+CE - ORG
+the dignitaries & invitees - ORG
+4 - CARDINAL
+one - CARDINAL
+KSHITIJ - ORG
+PROJECT DIRECTORS - PERSON
+INMAS - ORG
+ECS - ORG
+ECS - ORG
+PD - GPE
+nineteen - CARDINAL
+ECS - ORG
+Three-day - DATE
+Continuing Education Programme - ORG
+the Institute of Nuclear Medicine - ORG
+Allied Sciences - ORG
+INMAS - ORG
+Delhi - GPE
+2-4 May 2023 - DATE
+Dr - GPE
+UK Singh - PERSON
+OS & Director General (Life Sciences - ORG
+DRDO HQrs - PERSON
+Dr Anil Kumar Mishra - PERSON
+INMAS - ORG
+Singh Kanwar - GPE
+Dr Reena Wilfred - PERSON
+CEP - ORG
+DRDO - ORG
+
+Named Entities in preprocessed_array[12]:
+16 - CARDINAL
+JUNE 2023 - DATE
+Non-communicable Diseases - ORG
+49 - CARDINAL
+DRDO HQrs - PERSON
+Defence Research Laboratory - ORG
+DRL - ORG
+Tezpur - GPE
+ASC Bn - ORG
+4 Corps - ORG
+Gardening and Hydroponics Event - ORG
+Summer Camp - ORG
+17 May 2023 - DATE
+20 - CARDINAL
+10 to 17 years - DATE
+Army Public School - ORG
+10 - CARDINAL
+Dr Ankit - ORG
+Scientist - ORG
+DRL - ORG
+DRL - ORG
+DRL Chitramandap - ORG
+Dr Bodhaditya Das - PERSON
+DRL - ORG
+Tezpur - GPE
+Salari - ORG
+Changbu - GPE
+Tawang - GPE
+Armed Forces - ORG
+
+Named Entities in preprocessed_array[13]:
+17 - CARDINAL
+MPR - ORG
+Electronics - ORG
+Radar Development Establishment - ORG
+Bengaluru - ORG
+November 2008 - DATE
+the Indian Air Force - ORG
+Radar - PRODUCT
+2015 - DATE
+IAF - NORP
+2017 - DATE
+LaToT - PERSON
+GAD - ORG
+MPR - ORG
+the year 2019 - DATE
+23 March 2023 - DATE
+IAF - ORG
+GAD - ORG
+8 - CARDINAL
+MPR - ORG
+19 April 2023 - DATE
+Dr P Radhakrishna - ORG
+OS & Director - ORG
+MPR - ORG
+Vinay Kumar Gupta - PERSON
+Sr AGM - ORG
+BEL - ORG
+GAD - ORG
+National Conference on Condition Monitoring - ORG
+NCCM-2023 - GPE
+the Naval Science and Technological Laboratory - ORG
+Visakhapatnam - GPE
+Condition Monitoring Soc-iety - WORK_OF_ART
+India - GPE
+27-28 April 2023 - DATE
+Samir V Kamat - PERSON
+DRDO - PERSON
+Shri MZ Siddique - PERSON
+NS&M - ORG
+the Distinguished Guest - FAC
+the 1990s - DATE
+Sanjay Sadhu - PERSON
+Superintendent - PERSON
+Indian Navy - ORG
+
+Named Entities in preprocessed_array[14]:
+18 - CARDINAL
+Directorate of Human Resource Development - ORG
+DHRD - ORG
+Institute of Technology Management - ORG
+ITM - ORG
+Mussoorie - PERSON
+27-29 April 2023 - DATE
+Twenty - CARDINAL
+DRDO - ORG
+Samir V Kamat - PERSON
+DD - PERSON
+DRDO - PERSON
+Defence Institute of Psychological Research - ORG
+Delhi - GPE
+three-day - DATE
+PRAGATI - ORG
+ADE - ORG
+19-21 April 2023 - DATE
+Aeronautical Development Establishment - ORG
+Bengaluru - GPE
+Dehradun - GPE
+Dr RK Sokhi - ORG
+Divison Head - PERSON
+DIPR & Director - ORG
+Dr - GPE
+Ari Sudan Tiwari - PERSON
+Dr Sandhya Verma - PERSON
+Nity Sharma - PERSON
+Rajesh Tripathi - PERSON
+Dr Harsheeta - PERSON
+
+Named Entities in preprocessed_array[15]:
+19 - CARDINAL
+NEWSLETTERPERSONNEL NEWS Telangana Academy of Sciences HonourAWARDS & RECOGNITIONS - ORG
+OS & Associated Director - ORG
+Defence Metallurgical - ORG
+Hyde - PERSON
+Fellow of Telangana Academy of Sciences - ORG
+TAS - ORG
+the year 2021 - DATE
+2022 - DATE
+Prakash Babu - PERSON
+first - ORDINAL
+Manipur - GPE
+8 April 2022 - DATE
+NIELIT - ORG
+Imphal - ORG
+Hyderbad - GPE
+33 Awards at Garden - DATE
+Department of Horticulture - ORG
+7th - ORDINAL
+Garden Festival - EVENT
+1st - ORDINAL
+Urban Farming Festival - EVENT
+2023 - DATE
+10-20 January 2023 - DATE
+EMU - ORG
+33 - CARDINAL
+17 - CARDINAL
+First Prizes - ORG
+Second Prizes - EVENT
+EMU - ORG
+Hyderabad - ORG
+15 April 2023 - DATE
+the Horticulture Department of Telangana - ORG
+the Central Lawns - FAC
+Nampally - PERSON
+MLC - ORG
+Telangana - GPE
+Bandhu Samithi - PERSON
+Ghouse Mohiddin - PERSON
+Addl - PERSON
+CCE - ORG
+Estate - ORG
+Awards - LOC
+Guest - PERSON
+Awards - ORG
+
+Named Entities in preprocessed_array[16]:
+20 - CARDINAL
+JUNE 2023 - DATE
+ABHAY & MAAREECH PROJECT TEAMS - ORG
+DS & DG - ORG
+NS&M - ORG
+Naval Physical & Oceanographic Laboratory - ORG
+NPOL - ORG
+Kochi - PERSON
+17 April 2023 - DATE
+two - CARDINAL
+ABHAY - ORG
+the Indian Navy - ORG
+Shri Siddique - ORG
+NPOL - ORG
+Chandrika Kaushik - PERSON
+PC & SI - ORG
+India - GPE
+India - GPE
+Ajith Kumar K - PERSON
+NPOL - PERSON
+Indian - NORP
+NPOL - ORG
+Visakhapatnam - GPE
+ABHAY - ORG
+Active- - NORP
+NPOL - ORG
+India - GPE
+Indian Navy - ORG
+Sonar ABHAY - PERSON
+Hull - PERSON
+sixteen - CARDINAL
+Shallow Water Crafts - PERSON
+Garden Reach Shipbuilders & Engineers Ltd - ORG
+Kolkata - PERSON
+Cochin Shipyard Limited - ORG
+Kochi - PERSON
+Shri Chezian - NORP
+BEL - ORG
+NPOL - ORG
+NPOL - ORG
+Shri Satish Bharathan - PERSON
+L&T Defence - ORG
+NPOL - ORG
+Shri Hemachandran - PERSON
+AGM - ORG
+Keltron - ORG
+DRDO - ORG
+Dr K - PERSON
+Ajith Kumar - PERSON
+Shri P Balakrishnan - LAW
+MoD - GPE
+
+Named Entities in preprocessed_array[17]:
+21 - CARDINAL
+JUNE 2023 - DATE
+four - CARDINAL
+the HR Directorate of Naval Science and Technological Laboratory - ORG
+Visakhapatnam - GPE
+Manoeuvring Basin - PERSON
+www.ittc.info - ORG
+HIGHER - GPE
+Verma - PERSON
+Vehicles Research and Development Establish-ment - ORG
+VRDE - ORG
+Ahmednagar - PERSON
+Defence Materials and Stores Research & Development Establishment - ORG
+Kanpur - PERSON
+Dr Mayank Dwivedi - ORG
+DMSRDE - PERSON
+TiB - GPE
+Composites - PRODUCT
+DIAT - PERSON
+University - ORG
+Pune - ORG
+15 May 2023INAUGURATION - DATE
+KANPUR - ORG
+April 2023 - DATE
+7 years - DATE
+Shri Shilendra Kumar - PERSON
+Jitendra Kumar Yadav - PERSON
+Management Services Division - ORG
+Basavaraj - PERSON
+RMO - ORG
+first - ORDINAL
+
+Named Entities in preprocessed_array[18]:
+22 - CARDINAL
+JUNE 2023 - DATE
+Pune Dr - PERSON
+Samir V Kamat - PERSON
+DD - PERSON
+DRDO - PERSON
+Armament Research & Development Establishment - ORG
+Pune - ORG
+5 May 2023 - DATE
+Shri A Raju - ORG
+OS & Director - ORG
+ARDE - ORG
+Kamat - GPE
+ARDE - ORG
+Electromagnetic Rail Gun - ORG
+EMRG - ORG
+40 mm - QUANTITY
+Grenade - PERSON
+HILS - ORG
+DLRL - ORG
+Samir V Kamat - PERSON
+DD - PERSON
+DRDO - ORG
+Defence Electronics Research Laboratory - ORG
+DLRL - ORG
+Hydera - GPE
+24 March 2023 - DATE
+Shri N - ORG
+Srinivas Rao - PERSON
+OS & Director - ORG
+DLRL - ORG
+DRDO - PERSON
+Dr BK Das - ORG
+ECS - ORG
+DLRL - ORG
+Kamat - GPE
+Project Directors - PERSON
+Directorates - GPE
+DRL Tezpur - ORG
+Erry - PERSON
+AVSM - ORG
+SM - ORG
+Defence Research Laboratory - ORG
+DRL - ORG
+Tezpur - GPE
+28 April 2023 - DATE
+Dev Vrat Kamboj - PERSON
+DRL - ORG
+DRL - ORG
+GOC 4 Corps - ORG
+Capsispray, - ORG
+Capsigranade - PERSON
+DRDO Labs Biodigesters - PERSON
+Water Purification Systems - ORG
+DRL - ORG
+North East India - LOC
+
+Named Entities in preprocessed_array[19]:
+23 - CARDINAL
+JUNE 2023 - DATE
+Pune Dr SV Kamat - ORG
+DD - PERSON
+DRDO - PERSON
+High Energy Materials Research Laboratory - ORG
+Pune - ORG
+5 May 2023 - DATE
+Gun Propellant Facility & Multiple Motor Processing Facility - ORG
+HEMRL - ORG
+Reddy - ORG
+SA - ORG
+RM - ORG
+Instruments Research & Development Establishment (IRDE - ORG
+Dehradun - GPE
+21 April 2023 - DATE
+Ajay Kumar - PERSON
+Atmanirbhar Bharat - PERSON
+Dr Reddy - PERSON
+India - GPE
+Naval Science & Technological Laboratory - ORG
+10 April 2023 - DATE
+Project Sites - PERSON
+Laboratories - ORG
+Works Committee - ORG
+JCM-IV - FAC
+Unions of the Laboratory - ORG
+
+Named Entities in preprocessed_array[20]:
+24 - CARDINAL
+JUNE 2023 - DATE
+DESIDOC - ORG
+Metcalfe House - PERSON
+Delhi-110 - ORG
+Arti Sarin - PERSON
+VSM DGMS (Navy - ORG
+Visakhapatnam - GPE
+21 April 2023 - DATE
+Y Sreenivas Rao - PERSON
+Samir V Kamat - PERSON
+DD - PERSON
+DRDO - PERSON
+27 April 2023 - DATE
+NS&M - ORG
+a Product Display Centre - ORG
+VRDE - ORG
+Ahmednagar - ORG
+Vijay V Patel - PERSON
+OS & Sc ‘H’ - ORG
+ADA - ORG
+Bengaluru - ORG
+Vehicles Research and Development Establishment - ORG
+VRDE - ORG
+Ahmednagar - PERSON
+11 May 2023 - DATE
+VRDE - ORG
+VRDE - ORG
+VRDE - ORG
+VRDE - ORG
+Rupak Barua - PERSON
+VRDE - ORG
+12 May 2023 - DATE
+VRDE - ORG
+VRDE - ORG
+VRDE - ORG
+National Center for Automotive Testing - ORG
+NCAT - ORG
+
